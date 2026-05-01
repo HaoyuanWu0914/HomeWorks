@@ -1,0 +1,27 @@
+# Keil Generated output files in the sub-directories . WListings and . \Objects*.lst
+*.lst
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.htm
+*.build_log.htm
+*.dep
+*.iex
+*.i
+*_2i
+*.12p
+*.fed
+*.map
+*.hex
+*.bin
+*.Bak
+
+# Keil uVision IDE generated files
+*.uvguix.*
+*.uvgui.*
+
+#JLINK file
+JLinkLog.txt
+.dbgconf
